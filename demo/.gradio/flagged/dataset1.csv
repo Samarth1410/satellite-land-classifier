@@ -1,0 +1,2 @@
+Upload Satellite Image,Predictions,timestamp
+.gradio/flagged/Upload Satellite Image/1005febcbae98560147f/santuk_etm_2000366.jpg,"{""label"": ""River"", ""confidences"": [{""label"": ""River"", ""confidence"": 0.902987539768219}, {""label"": ""Pasture"", ""confidence"": 0.03800186514854431}, {""label"": ""Herbaceous Vegetation"", ""confidence"": 0.016451846808195114}, {""label"": ""Permanent Crop"", ""confidence"": 0.012269800528883934}, {""label"": ""Forest"", ""confidence"": 0.009043297730386257}]}",2026-03-08 23:36:25.812034
