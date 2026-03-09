@@ -162,5 +162,5 @@ python app.py
 
 ## 👤 Author
 
-**Your Name**
+**Samarth Agrawal**
 [GitHub](https://github.com/Samarth1410)
