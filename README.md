@@ -10,6 +10,9 @@ This project fine-tunes a pre-trained `google/vit-base-patch16-224` model on 27,
 
 ---
 
+**Model on HuggingFace:** [Samarth1410/satellite-land-classifier](https://huggingface.co/Samarth1410/satellite-land-classifier)
+
+
 ## 📊 Results
 
 | Metric | Validation | Test |
